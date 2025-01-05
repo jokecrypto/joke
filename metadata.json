@@ -3,4 +3,9 @@
   "symbol": "JOKE",
   "description": "JOKE Coin – Where expecting to get rich is the funniest part!",
   "image": "https://raw.githubusercontent.com/jokecrypto/joke/refs/heads/main/joke.png"
+  "extensions": {
+    "website": "https://jokecrypto.github.io/joke/",
+    "twitter": "https://x.com/CryptoJoke01",
+    "TikTok": "https://www.tiktok.com/@jokecrypto01"
+  }
 }
